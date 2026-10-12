@@ -1,0 +1,25 @@
+inventory_id,bank_id,bank_name,location,blood_group,available_units,last_updated
+INV-BB-101-A+,BB-101,Lifeline Blood Bank,Bengaluru,A+,59,2025-06-30
+INV-BB-101-A-,BB-101,Lifeline Blood Bank,Bengaluru,A-,93,2025-06-30
+INV-BB-101-B+,BB-101,Lifeline Blood Bank,Bengaluru,B+,96,2025-06-30
+INV-BB-101-B-,BB-101,Lifeline Blood Bank,Bengaluru,B-,96,2025-06-30
+INV-BB-101-AB+,BB-101,Lifeline Blood Bank,Bengaluru,AB+,104,2025-06-30
+INV-BB-101-AB-,BB-101,Lifeline Blood Bank,Bengaluru,AB-,110,2025-06-30
+INV-BB-101-O+,BB-101,Lifeline Blood Bank,Bengaluru,O+,107,2025-06-30
+INV-BB-101-O-,BB-101,Lifeline Blood Bank,Bengaluru,O-,120,2025-06-30
+INV-BB-202-A+,BB-202,Mercy Blood Centre,Mysuru,A+,64,2025-06-30
+INV-BB-202-A-,BB-202,Mercy Blood Centre,Mysuru,A-,68,2025-06-30
+INV-BB-202-B+,BB-202,Mercy Blood Centre,Mysuru,B+,93,2025-06-30
+INV-BB-202-B-,BB-202,Mercy Blood Centre,Mysuru,B-,118,2025-06-30
+INV-BB-202-AB+,BB-202,Mercy Blood Centre,Mysuru,AB+,116,2025-06-30
+INV-BB-202-AB-,BB-202,Mercy Blood Centre,Mysuru,AB-,107,2025-06-30
+INV-BB-202-O+,BB-202,Mercy Blood Centre,Mysuru,O+,132,2025-06-30
+INV-BB-202-O-,BB-202,Mercy Blood Centre,Mysuru,O-,124,2025-06-30
+INV-BB-303-A+,BB-303,CarePlus Blood Bank,Hubballi,A+,77,2025-06-30
+INV-BB-303-A-,BB-303,CarePlus Blood Bank,Hubballi,A-,70,2025-06-30
+INV-BB-303-B+,BB-303,CarePlus Blood Bank,Hubballi,B+,105,2025-06-30
+INV-BB-303-B-,BB-303,CarePlus Blood Bank,Hubballi,B-,99,2025-06-30
+INV-BB-303-AB+,BB-303,CarePlus Blood Bank,Hubballi,AB+,109,2025-06-30
+INV-BB-303-AB-,BB-303,CarePlus Blood Bank,Hubballi,AB-,94,2025-06-30
+INV-BB-303-O+,BB-303,CarePlus Blood Bank,Hubballi,O+,112,2025-06-30
+INV-BB-303-O-,BB-303,CarePlus Blood Bank,Hubballi,O-,131,2025-06-30

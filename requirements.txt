@@ -1,0 +1,7 @@
+pandas
+numpy
+pymongo
+streamlit
+plotly
+python-dotenv
+pytest
